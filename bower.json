@@ -1,0 +1,22 @@
+{
+  "name": "movies Application",
+  "homepage": "https://github.com/sanjeeda9/JS-Assignment",
+  "authors": [
+    "Sanjeeda"
+  ],
+  "description": "the basic crud operations",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "babel": "*",
+    "react": "^15.2.1",
+    "bootstrap" : "^3.3.6"
+  }
+}
